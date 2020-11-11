@@ -23,15 +23,9 @@ p{
 }
 
 .box{
+    width: 95%;
     padding: 15px;
     text-align: center;
-    
-}
-
-.submit{
-    padding: 15px;
-    text-align: center;
-
 }
 
 input{
