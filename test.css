@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(23, 23, 51);
+    margin: 0px;
+}
+
+.topnav {
+    background-color: lightslategray;
+    padding: 5px;
+    text-align: right;
+}
+
+.nav-link {
+    background-color: darkgray;
+    color: darkkhaki;
+    padding-left: 5px;
+    border-radius: 10px;
+}
